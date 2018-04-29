@@ -1,5 +1,3 @@
--- CMPT 384 Assignment 3
--- Alexander Kong - 301229548
 
 
 
